@@ -1,1 +1,9 @@
- Attack on Titan\n\nMijn wiki gaat over Attack on Titan. Hierin zal ik alle informatie erover weergeven.
+# Attack on Titan
+
+Welkom bij mijn wiki over Attack on Titan.
+
+## Inhoud
+
+- [Personages](personages.md)
+- [Verhaal](verhaal.md)
+- [Locaties](locaties.md)
